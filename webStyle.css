@@ -1,0 +1,291 @@
+
+ body
+          {
+            margin-top: 0  ;
+            margin-bottom: 0  ;
+            margin-left: 0  ;
+            margin-right: 0  ;
+        
+
+          }
+
+#sHeader{
+       width:80%;
+       height: 260px;
+       background-image: url(logo.jpg);
+       background-size: 100% 100%;    
+      margin:auto;
+      margin-top: 20px;
+       border-radius: 30px;
+      
+}
+
+.header{
+       width:80%;
+       height: 42%;
+       background-image: url(logo.jpg);
+       background-size: 100% 100%;
+       position: absolute;
+       left: 130px;
+       top: 30px;
+       border-radius: 30px;
+}
+
+#Content
+{
+  width:80%;
+  height:1000px;
+  margin:auto;
+
+}
+
+#nav
+{
+  width:100%;
+  margin:auto;
+}
+
+.myMenue
+{
+  color: white;
+  background: #315395;
+  border-radius:10px;
+  padding: 10px;
+}
+
+#mylinks li
+{
+  display: inline;
+  padding-left: 20px;
+  padding-right:20px;
+  margin :10px;
+}
+.par 
+{
+  width:960px;
+  height:100px;
+  margin-top: 40px;
+  margin-left: 50px;
+
+}
+.par h3
+{
+  color:#C0C0C0;
+  font-family: tahoma;
+}
+
+.par p 
+{
+  color:#EAEAEA;
+
+  font-size: 20px;
+}
+
+.par-1
+{
+  width:960px;
+  height:100px;
+  margin-top: 30px;
+  margin-left: 50px;
+
+}
+
+.par-1 h3
+{
+  color:#C0C0C0;
+  font-family: tahoma;
+}
+
+.par-1 p 
+{
+  color:#EAEAEA;
+
+  font-size: 20px;
+}
+
+.par-1 h4,.par-2 h4 
+{
+  color: #1AAA9B;
+  font-size: 22px;
+}
+
+.par-2 ol
+{
+  color:#EAEAEA;
+
+  font-size: 20px;
+}
+
+.par-2
+{
+  width:960px;
+  height:150px;
+  margin-top: 30px;
+  margin-left: 50px;
+
+}
+#block
+{
+  border:3px #FEE2FE;
+  border-style:inset;
+  border-radius: 7px;
+  width:300px;
+  height:250px;
+  margin:auto;
+  margin-top: 80px;
+
+ 
+}
+#block span
+{
+  color:#DD9B6A;
+  font-size: 24px;
+}
+#block ol
+{
+  color:#E9E9E9;
+  font-size: 22px;
+}
+
+
+.menu{
+       width:90%;
+       height: 10%;
+       background: ;
+       position: absolute;
+       left: 140px;
+       top: 270px;
+       
+}
+
+ul li{
+              margin-right: 30px;
+              margin-top: 7px;
+              margin-left: 30;
+              display: inline;
+              background-size: 30px;
+              
+       }
+
+a:hover{
+    color:yellow;
+   /* text-transform: uppercase;*/
+   /* text-decoration: none;*/}
+    
+a:visited{
+    color:;
+    font-size: larger;
+    /*text-decoration: none;*/}
+.main{
+       width:70%;
+       height: 120%;
+       background: white;
+       position: absolute;
+       left: 195px;
+       top: 330px;
+       border-radius: 15px;
+}
+.welcome{ 
+       width:60%;
+       height: 65%;
+       background: ;
+       position: absolute;
+       left: 10px;
+       top: 10px;
+       border-radius: 15px;
+}
+
+.gallery{width:60%;
+       height: 5%;
+       background: #315395;
+       position: absolute;
+       left: 10px;
+       top: 540px;
+       border-radius: 15px;
+       color: white;
+}
+
+.photo{
+       width:60%;
+       height: 23%;
+       background: #315395;
+       position: absolute;
+       left: 10px;
+       top: 590px;
+       border-radius: 15px;
+       background-image: url(12.jpg);
+       
+}
+
+.news{
+       width:30%;
+       height: 30%;
+       background: #315395;
+       position: absolute;
+       left: 620px;
+       top: 10px;
+       border-radius: 15px;
+       white-space: pre;
+       color: white;
+       
+       
+}
+
+.links{
+       width:30%;
+       height: 30%;
+       background: #315395;
+       position: absolute;
+       left: 620px;
+       top: 260px;
+       border-radius: 15px;
+       
+       
+       
+}
+
+.opinion{
+       width:30%;
+       height: 30%;
+       background: #315395;
+       position: absolute;
+       left: 620px;
+       top: 520px;
+       border-radius: 15px;
+       color: white;
+       
+       
+       
+}
+
+
+.footer{
+       width:90%;
+       height: 10%;
+       background: blue;
+       position: absolute;
+       left: 20px;
+       top: 640px;
+}
+
+a
+{
+
+ text-decoration:none;
+ color: white;
+
+}
+
+
+
+
+
+.internal
+{
+
+background-repeat:no-repeat;
+background-position:right;
+margin-right:150px;
+margin-left: 150px;
+}
+
